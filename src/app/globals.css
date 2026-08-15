@@ -229,76 +229,59 @@ button { cursor: pointer; border: none; font-family: inherit; }
 }
 
 /* ==========================================================================
-   TOP NOTICE BAR & HEADER
+   UNIFIED SINGLE-LINE HEADER
    ========================================================================== */
-.top-notice-bar {
-  background: linear-gradient(90deg, #047857 0%, #059669 50%, #047857 100%);
-  padding: 5px 0;
-  color: #ffffff;
-  font-size: 0.78rem;
-  font-weight: 600;
-  text-align: center;
-}
-
-.top-notice-content {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 8px;
-  flex-wrap: wrap;
-}
-
-.badge-live {
-  display: inline-flex;
-  align-items: center;
-  gap: 4px;
-  padding: 1px 6px;
-  background: rgba(255, 255, 255, 0.25);
-  border-radius: var(--radius-pill);
-  font-size: 0.65rem;
-  font-weight: 800;
-}
-
-.badge-live::before {
-  content: '';
-  width: 5px;
-  height: 5px;
-  border-radius: 50%;
-  background: #ffffff;
-}
-
-.top-contact-links {
-  display: none;
-}
-
-@media (min-width: 768px) {
-  .top-contact-links {
-    display: flex;
-    gap: 14px;
-    align-items: center;
-  }
-  .top-contact-links a {
-    color: #ffffff;
-    font-weight: 700;
-    font-size: 0.8rem;
-  }
-}
-
 .main-header {
   position: sticky;
   top: 0;
   z-index: 999;
-  background: rgba(255, 255, 255, 0.95);
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
-  border-bottom: 1px solid var(--border-subtle);
+  background: rgba(255, 255, 255, 0.96);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1.5px solid var(--border-subtle);
+  box-shadow: var(--shadow-sm);
 }
 
 .navbar {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: var(--header-height);
+  height: 56px;
+}
+
+@media (min-width: 768px) {
+  .navbar {
+    height: 64px;
+  }
+}
+
+.header-right-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.header-whatsapp-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  border-radius: var(--radius-pill);
+  background: #ecfdf5;
+  color: #059669;
+  border: 1px solid #a7f3d0;
+  font-size: 0.82rem;
+  font-weight: 800;
+  transition: all 0.2s ease;
+}
+
+.header-whatsapp-pill i {
+  font-size: 1rem;
+  color: #25d366;
+}
+
+.header-whatsapp-pill:active {
+  background: #d1fae5;
 }
 
 .brand-logo {
@@ -540,26 +523,39 @@ button { cursor: pointer; border: none; font-family: inherit; }
   }
 }
 
-/* Buttons Group */
+/* Buttons Group (Side by Side on Mobile & Desktop) */
 .slide-btn-group {
-  display: flex;
-  align-items: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   gap: 8px;
-  flex-wrap: wrap;
-  margin-bottom: 14px;
+  width: 100%;
+  margin-bottom: 12px;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 600px) {
   .slide-btn-group {
+    display: inline-flex;
+    width: auto;
+    gap: 10px;
     justify-content: center;
-    gap: 12px;
   }
 }
 
 .slide-action-btn {
-  font-size: 0.86rem;
-  padding: 8px 14px;
+  font-size: 0.84rem;
+  padding: 8px 6px;
   min-height: 38px;
+  width: 100%;
+  justify-content: center;
+  white-space: nowrap;
+  letter-spacing: -0.01em;
+}
+
+@media (min-width: 600px) {
+  .slide-action-btn {
+    width: auto;
+    padding: 8px 18px;
+  }
 }
 
 /* Sleek Nav Controls (Dots + Arrows) */

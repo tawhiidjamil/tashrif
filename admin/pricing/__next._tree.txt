@@ -1,5 +1,5 @@
-:HL["/tashrif/_next/static/chunks/0g6gw424-wnt8.css","style"]
+:HL["/tashrif/_next/static/chunks/1cz3jty86gy3w.css","style"]
 :HL["https://fonts.maateen.me/kalpurush/font.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800&family=Hind+Siliguri:wght@400;500;600;700&display=swap","style"]
 :HL["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"admin","param":null,"prefetchHints":4160,"slots":{"children":{"name":"pricing","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"npwhHXPxsnzVJQoXmgj2d"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"admin","param":null,"prefetchHints":4160,"slots":{"children":{"name":"pricing","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"L5a59fI_J2Y5z7HZ3EG9e"}

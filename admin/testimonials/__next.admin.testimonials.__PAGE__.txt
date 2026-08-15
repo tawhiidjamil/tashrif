@@ -1,0 +1,27 @@
+1:"$Sreact.fragment"
+2:I[47257,["/tashrif/_next/static/chunks/3z5aiml2paw0x.js"],"ClientPageRoot"]
+3:I[58676,["/tashrif/_next/static/chunks/3z5aiml2paw0x.js","/tashrif/_next/static/chunks/1h6aag5n6ersp.js","/tashrif/_next/static/chunks/3kyhwzkww6jh0.js"],"default"]
+6:I[97367,["/tashrif/_next/static/chunks/3z5aiml2paw0x.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+b:I[97367,["/tashrif/_next/static/chunks/3z5aiml2paw0x.js"],"ViewportBoundary"]
+c:I[97367,["/tashrif/_next/static/chunks/3z5aiml2paw0x.js"],"MetadataBoundary"]
+e:I[39756,["/tashrif/_next/static/chunks/3z5aiml2paw0x.js"],"default"]
+f:I[37457,["/tashrif/_next/static/chunks/3z5aiml2paw0x.js"],"default"]
+12:I[92825,["/tashrif/_next/static/chunks/3z5aiml2paw0x.js"],"ClientSegmentRoot"]
+13:I[71284,["/tashrif/_next/static/chunks/3z5aiml2paw0x.js","/tashrif/_next/static/chunks/1h6aag5n6ersp.js"],"default"]
+a:X
+11:X
+11:C
+0:{"buildId":"npwhHXPxsnzVJQoXmgj2d","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/tashrif/_next/static/chunks/3kyhwzkww6jh0.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$Lb",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=5"}],["$","meta","2",{"name":"theme-color","content":"#059669"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"তাশরীফ ট্রান্সলেশন অ্যান্ড নোটারি পাবলিক সেন্টার | প্রফেশনাল অনুবাদ, নোটারি ও ই-এপোস্টিল সেবা"}],["$","meta","1",{"name":"description","content":"তাশরীফ ট্রান্সলেশন অ্যান্ড নোটারি পাবলিক সেন্টার - সকল প্রকার সার্টিফিকেট, মার্কশিট, জন্ম নিবন্ধন, এনআইডি, কাবিননামা ও জুডিশিয়াল দলিলের বিশুদ্ধ অনুবাদ, লাইসেন্সপ্রাপ্ত লয়ার দ্বারা নোটারি পাবলিক এবং হেগ ই-এপোস্টিল সত্যায়ন সেবা।"}],["$","meta","2",{"name":"keywords","content":"অনুবাদ ও নোটারী, Notary Public Dhaka, Certified Translation Bangladesh, e-Apostille Bangladesh, নিকাহনামা অনুবাদ, বার্থ সার্টিফিকেট অনুবাদ, MOFA Attestation"}],["$","meta","3",{"property":"og:title","content":"তাশরীফ ট্রান্সলেশন অ্যান্ড নোটারি পাবলিক সেন্টার"}],["$","meta","4",{"property":"og:description","content":"আন্তর্জাতিক মানসম্পন্ন প্রত্যয়িত অনুবাদ, লাইসেন্সপ্রাপ্ত নোটারি পাবলিক ও হেগ ই-এপোস্টিল সেবা।"}],["$","meta","5",{"property":"og:type","content":"website"}],["$","meta","6",{"name":"twitter:card","content":"summary"}],["$","meta","7",{"name":"twitter:title","content":"তাশরীফ ট্রান্সলেশন অ্যান্ড নোটারি পাবলিক সেন্টার"}],["$","meta","8",{"name":"twitter:description","content":"আন্তর্জাতিক মানসম্পন্ন প্রত্যয়িত অনুবাদ, লাইসেন্সপ্রাপ্ত নোটারি পাবলিক ও হেগ ই-এপোস্টিল সেবা।"}]]}]}]}],null]}],"isPartial":"$@d","staleTime":"$a","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$Lf",null,{}]}]]}],"isPartial":"$@10","staleTime":"$a","varyParams":"$11"},{"rsc":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/tashrif/_next/static/chunks/1h6aag5n6ersp.js","async":true}]],["$","$L12",null,{"Component":"$13","slots":{"children":["$","$Le",null,{"parallelRouterKey":"children","template":["$","$Lf",null,{}]}]},"serverProvidedParams":{"params":"$0:data:0:rsc:props:children:0:props:serverProvidedParams:params","promises":["$@14"]}}]]}],"isPartial":"$@15","staleTime":"$a","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@16","rootVaryParams":null,"needsRuntimeRequest":"$@17"}
+4:{}
+5:"$0:data:0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
+14:"$0:data:0:rsc:props:children:0:props:serverProvidedParams:params"
+17:true
+a:300
+a:C
+16:0
+d:"$undefined"
+10:"$undefined"
+9:"$undefined"
+15:"$undefined"
